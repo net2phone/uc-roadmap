@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: uContact Feedback
+    url: https://github.com/net2phone/uc-roadmap/discussions
+    about: Share your feedback with the team.
