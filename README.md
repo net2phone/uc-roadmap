@@ -15,7 +15,7 @@ We use labels on our issues so they can be grouped together more quickly
 |-|-|
 | 📚 academy  | Academy is the platform where you can learn with videos of simple use cases of uContact |
 | 🤜🏼🤛🏼 connector/integration | Connectors in uContact are integrations with other systems that provide a communication services  |
-| 📖 documentation | Improvements or addintions intoz uContact core documentation. Available [here](https://next.ucontactcloud.com/docs)   |
+| 📖 documentation | Improvements or additions into uContact core documentation. Available [here](https://next.ucontactcloud.com/docs)   |
 | ✨ improvement | Improves an existing functionality   |
 | 🏄🏻‍♂️ new feature | A whole new functionality will be developed  |
 | 🚀 next  | This will be part of the next version of uContact  |
@@ -23,8 +23,8 @@ We use labels on our issues so they can be grouped together more quickly
 
 ## 🗓 Quarterly milestones 
 
-We have for major milestones every year. Every issue is scheduled to be released in one of theese.
-Q1 starts on August every year, so we can assing months into quarters
+We have for major milestones every year. Every issue is scheduled to be released in one of these.
+Q1 starts on August every year, so we can assign months into quarters.
 
 | Q1 | Q2 | Q3| Q4
 |--|--|--|--
@@ -40,6 +40,7 @@ Today all instances of uContact are in version 6.
 
 ## 🚀 uContact next releases
 
-Until next version of uContact becomes stable, this will be released along with v6. Each new released of the next version will be called beta1, beta2 etc. Once stable our plan is to migrate to version 7.
+Until next version of uContact becomes stable, this will be released along with v6. Each new released of the next version will be called beta1, beta2, betaX. Once stable our plan is to migrate to version 7.
+
 
 
