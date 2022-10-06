@@ -24,7 +24,7 @@ We use labels on our issues so they can be grouped together more quickly
 
 ## 🗓 Quarterly milestones 
 
-We have for major milestones every year. Every issue is scheduled to be released in one of these.
+We have four major milestones every year. Every issue is scheduled to be released in one of these.
 Q1 starts on August every year, so we can assign months into quarters.
 
 | Q1 | Q2 | Q3| Q4
